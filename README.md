@@ -1,0 +1,2 @@
+# szgm-gyakorlat
+Első repo
